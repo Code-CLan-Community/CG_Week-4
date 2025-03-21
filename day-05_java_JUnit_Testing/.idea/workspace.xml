@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3821a296-6f04-4dfe-a8b3-e967e5da1cc5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2t9tgBQz3cCKqES9zEaKrJsAoCN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to process.pid 7176.executor": "ProcessAttachDebug",
+    "JUnit.DatabaseConnectionTest.executor": "Run",
+    "JUnit.DateFormatterTest.executor": "Run",
+    "JUnit.EvenUtilsTest.executor": "Run",
+    "JUnit.ExceptionHandilingTest.executor": "Run",
+    "JUnit.ExceptionHandlingTest.executor": "Run",
+    "JUnit.ListManagerTest.executor": "Run",
+    "JUnit.PasswordValidatorTest.executor": "Run",
+    "JUnit.PerformanceTest.executor": "Run",
+    "JUnit.StringUtilsTest.executor": "Run",
+    "JUnit.TemperatureConverterTest.executor": "Run",
+    "JUnit.UserRegistrationTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CalculatorTest.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/krati/IdeaProjects/CG_Week_04/java_JUnit_Testing/src/main/java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="isevenparameterized" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krati\IdeaProjects\CG_Week_04\java_JUnit_Testing\src\main\java" />
+      <recent name="C:\Users\krati\IdeaProjects\CG_Week_04\java_JUnit_Testing\src\test\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3821a296-6f04-4dfe-a8b3-e967e5da1cc5" name="Changes" comment="" />
+      <created>1739776226551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739776226551</updated>
+    </task>
+    <servers />
+  </component>
+</project>
